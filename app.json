@@ -1,0 +1,15 @@
+{
+  "name": "everlastingquiz",
+  "displayName": "everlastingquiz",
+  "expo": {
+    "name": "everlastingquiz",
+    "slug": "everlastingquiz",
+    "version": "1.0.0",
+    "platforms": [
+      "android"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
